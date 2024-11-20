@@ -8,7 +8,7 @@
 * documentation
 
 **DATA**
-* mortgage.df
+* mortgage_df.csv
 
 **CODE**
 * casestudy.ipynb
