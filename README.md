@@ -3,15 +3,16 @@
 
 # **Documentation Map**
 
-**MATERIALs**
-*
-*
+**MATERIALS**
+* project motivation
+* documentation
 
 **DATA**
-* "cleaned.df"
+* mortgage.df
 
 **CODE**
-*
+* casestudy.ipynb
 
 **OUTPUT**
-*
+* figure1
+* figure2
