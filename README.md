@@ -33,5 +33,6 @@ All code used the [Python](https://www.python.org/downloads/) language on a virt
 ## **References**
 [1] Jihyun (Jenny) Kim, “Exploring the Seasonal ARIMA (SARIMA) Model for Forecasting: Differences from ARIMA,” Medium, Apr. 03, 2024. https://medium.com/@jihyun.kim423/exploring-the-seasonal-arima-sarima-model-for-forecasting-differences-from-arima-e30c3488e5f6 (accessed Nov. 25, 2024).
 ‌
+
 [2] “Why data matters in Material Recovery Facilities - Recycleye,” Recycleye, Oct. 19, 2022. https://recycleye.com/why-data-matters-in-material-recycling-facilities/ (accessed Nov. 25, 2024).
 ‌
