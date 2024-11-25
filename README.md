@@ -3,9 +3,12 @@
 
 ## **Documentation Map**
 
+* Hook Document.pdf
+* Rubric.pdf
+
 **MATERIALS**
-* project motivation
-* documentation
+* WasteSortingImportance.pdf (project motivation)
+* SarimaExploration.pdf (documentation)
 
 **DATA**
 * mortgage_df.csv
@@ -14,5 +17,6 @@
 * casestudy.ipynb
 
 **OUTPUT**
-* figure1
-* figure2
+* frm over time.png
+* forecast.png
+* predicted vs actual.png
